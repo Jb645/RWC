@@ -10,7 +10,7 @@ public class test : MonoBehaviour
     //global - everywhere
     public int dan; //132
 
-    private int luigi = 49;
+    //private int luigi = 49;
     private int sum;
 
     public bool harold;
